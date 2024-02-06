@@ -10,7 +10,7 @@ Pololu S7V8F5 5V step-up/down voltage regulator Fritzing part. This is a modific
 
 
 ### How to add part:
-Open Fritzing then locate the new part under File > Open > Pololu S7V8F5.fzpz The part will then be added to your parts list (under MINE folder) or you can search for it as "# Pololu S7V8F5"
+Open Fritzing then locate the new part under File > Open > PololuS7V8F5.fzpz The part will then be added to your parts list (under MINE folder) or you can search for it as "# Pololu S7V8F5 5V Step-up/Step-down DC DC Regulator"
 
 
 
